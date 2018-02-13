@@ -1,0 +1,2 @@
+<div class="right" style="position:fixed;top: 12%; left:90%; height: 100%; background-color: rgba(100,100,255,0.2); padding: 4%;">ads space</div>
+	<div class="left" style="position:fixed;top: 12%; right:90%; height: 100%; background-color: rgba(100,100,255,0.2); padding: 4%;">ads space</div>
